@@ -1,0 +1,11 @@
+
+
+
+
+.animtest, .noanimtest { display: none;}  /* on annule la visibilité pour les éléments sélectionnés  */
+
+.cssanimations .animtest { display:block;}  /* affichage en block (regroupé) pour les éléments sélectionnés */
+
+.no-cssanimations .noanimtest { display:block;} /* affichage en block (regroupé) pour les éléments sélectionnés  */
+
+
